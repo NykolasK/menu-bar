@@ -15,6 +15,10 @@ nav {
   margin: 0;
 }
 
+.servicos-intro {
+    text-align: center;
+}
+
 .menu li {
   position: relative;
 }
@@ -30,6 +34,16 @@ nav {
   background-color: #b6a6ca;
 }
 
+.column {
+    position: relative;
+    text-align: center;
+    background-color: #a09abc;
+    border-radius: 20px;
+}
+
+.container {
+    line-height: -200px;
+}
 .submenu {
   display: none;
   position: absolute;
